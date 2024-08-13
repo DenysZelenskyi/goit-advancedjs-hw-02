@@ -1,0 +1,23 @@
+.form {
+  max-width: 250px;
+  width: 100%;
+}
+
+.delay-label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.delay-input {
+  max-height: 100%;
+  height: 30px;
+}
+
+fieldset {
+  margin-bottom: 10px;
+}
+
+button {
+  width: 100%;
+}
